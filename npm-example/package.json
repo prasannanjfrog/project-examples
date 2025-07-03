@@ -4,9 +4,7 @@
   "scripts": {
     "start": "node helloworld"
   },
-  "dependencies": {
-    "send": "^0.16.2"
-  },
+  "dependencies": {},
   "devDependencies": {
     "debug": "^4.1.1"
   }
